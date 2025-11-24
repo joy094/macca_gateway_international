@@ -44,7 +44,7 @@ footer {
 
   height: 150px;
   border-radius: 8px;
-  font-family: Tiro bangla;
+  font-family: "Tiro bangla", serif;
 }
 footer p {
   margin: 0;
@@ -72,7 +72,8 @@ footer a {
     font-size: 15px;
   }
   footer p {
-    font-size: 13px;
+    
+    font-size: 11px;
     margin-top: 8px;
   }
 
