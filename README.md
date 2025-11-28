@@ -1,6 +1,6 @@
-# 🚀 Project Title: makkahgatewayint
+# 🚀 Project Title: MakkahGateWayINT
 
-Welcome to the **makkahgatewayinternational** repository! This is a modern, super-fast, and fully responsive static website built using core web technologies (HTML, CSS, and JavaScript).
+Welcome to the **MakkahGateWayInternational** repository! This is a modern, super-fast, and fully responsive static website built using core web technologies (HTML, CSS, and JavaScript).
 
 ---
 
@@ -42,11 +42,11 @@ You only need a modern web browser (like Chrome, Firefox, or Edge) installed on 
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/joy094/macca_gateway_international
     ```
 2.  Navigate into the project folder:
     ```bash
-    cd your-repo-name
+    cd macca_gateway_international
     ```
 3.  Open the `index.html` file in your preferred web browser to view the site.
 
@@ -61,7 +61,7 @@ To ensure continuous accessibility and reliability for all stakeholders, this pr
 
 * **2. Vercel Backup Link (Permanent Access):**
     (This link guarantees access even if the primary domain expires)
-    👉 **https://macca-gateway-international-lbg3o0brd-joy094s-projects.vercel.app/**
+    👉 **https:https://macca-gateway-international.vercel.app/**
 
 ---
 
